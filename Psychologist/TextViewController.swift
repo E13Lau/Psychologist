@@ -25,8 +25,8 @@ class TextViewController: UIViewController {
     //
     override var preferredContentSize: CGSize {
         get {
-            if textView != nil && presentedViewController != nil {
-                return textView.sizeThatFits(presentedViewController!.view.bounds.size)
+            if textView != nil && presentingViewController != nil {
+                return textView.sizeThatFits(presentingViewController!.view.bounds.size)
             } else {
                 return super.preferredContentSize
             }

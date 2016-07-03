@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FD5DEB3201709B55FA2AD94C3BC691EA9694A2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5BE23CE9B18401A4383475148C73EDD05727027" : 0,
+    "6FD5DEB3201709B55FA2AD94C3BC691EA9694A2E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CEE8D9D1-B9C6-41CC-802B-6BB2E4E119FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5BE23CE9B18401A4383475148C73EDD05727027" : "",
+    "6FD5DEB3201709B55FA2AD94C3BC691EA9694A2E" : "Psychologist\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Psychologist",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Psychologist.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chn-lyzhi\/Psychologist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FD5DEB3201709B55FA2AD94C3BC691EA9694A2E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "code.csdn.net:everfire130\/ydpack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5BE23CE9B18401A4383475148C73EDD05727027"
+    }
+  ]
+}
